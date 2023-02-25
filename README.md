@@ -1,2 +1,3 @@
 # SD-Week-One-Task-Repo
-QR Code webpage design
+QR Code Component design
+
